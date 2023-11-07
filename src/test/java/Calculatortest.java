@@ -31,7 +31,7 @@ public class CalculatorTest {
         int a = 2;
         int aa = 2;
         int expectedResult = 4;
-        int result = calculator.mult(a,aa);
+        int result = calculator.mul(a,aa);
         Assert.assertEquals(expectedResult, result);
     }
 
