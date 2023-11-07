@@ -50,7 +50,7 @@ public class Main {
                         num = reader.nextInt();
                         System.out.print("Enter number2: \n");
                         exp = reader.nextInt();
-                        mul(num,exp);
+                        mult(num,exp);
                         break;
 
 
@@ -84,7 +84,7 @@ public class Main {
         logger.info("Executing subtraction operation for "+num+" and "+exp+". Result: "+c+"\n");
         return c;
     }
-    public static int mul(int num,int exp){
+    public static int mult(int num,int exp){
         int c = num*exp;
         System.out.println("\nThe Result is "+c+"\n");
         logger.info("Executing multiplication operation for "+num+" and "+exp+". Result: "+c+"\n");
