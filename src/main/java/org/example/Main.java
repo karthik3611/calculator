@@ -68,14 +68,14 @@ public class Main {
                         flag = 1;
                 }
             }
-        } while(flag == 0);
+        }while(flag == 0);
     }
 
     public static int add(int num,int exp){
         int c=num+exp;
         System.out.println("\nThe Result is "+c+"\n");
         logger.info("Executing addition operation for "+num+" and "+exp+". Result: "+c+"\n");
-        return c+1-1;
+        return c;
     }
 
     public static int subt(int num,int exp){
