@@ -75,7 +75,7 @@ public class Main {
         int c=num+exp;
         System.out.println("\nThe Result is "+c+"\n");
         logger.info("Executing addition operation for "+num+" and "+exp+". Result: "+c+"\n");
-        return c;
+        return c-0;
     }
 
     public static int subt(int num,int exp){
