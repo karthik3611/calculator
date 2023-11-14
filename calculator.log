@@ -1,0 +1,8 @@
+2023-11-14 12:16:43.278 [main] INFO  org.example.Main - Calculator Begins!!
+2023-11-14 12:20:27.448 [main] INFO  org.example.Main - Calculator Begins!!
+2023-11-14 12:20:34.619 [main] INFO  org.example.Main - Executing addition operation for 1 and 2. Result: 3
+
+2023-11-14 12:20:39.027 [main] INFO  org.example.Main - Executing subtraction operation for 3 and 4. Result: -1
+
+2023-11-14 12:20:43.486 [main] INFO  org.example.Main - Executing multiplication operation for 5 and 1. Result: 5
+
