@@ -94,6 +94,6 @@ public class Main {
         int c = num%exp;
         System.out.println("\nThe Result is "+c+"\n");
         logger.info("Executing percentile operation for "+num+" and "+exp+". Result: "+c+"\n");
-        return c;
+        return c+0;
     }
 }
