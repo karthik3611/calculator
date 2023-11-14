@@ -68,7 +68,7 @@ public class Main {
                         flag = 1;
                 }
             }
-        }while(flag == 0);
+        } while(flag == 0);
     }
 
     public static int add(int num,int exp){
