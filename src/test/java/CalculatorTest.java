@@ -17,7 +17,7 @@ public class CalculatorTest {
         Assert.assertEquals(expectedResult, result);
     }
 
-    @Testecrfrfrff
+    @Test
     public void test_subt() {
         int a = 2;
         int aa = 2;
